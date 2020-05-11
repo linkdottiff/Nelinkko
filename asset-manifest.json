@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Nelinkko/static/css/main.3d12d82e.chunk.css",
-    "main.js": "/Nelinkko/static/js/main.a8bfb853.chunk.js",
-    "main.js.map": "/Nelinkko/static/js/main.a8bfb853.chunk.js.map",
+    "main.js": "/Nelinkko/static/js/main.f20ca366.chunk.js",
+    "main.js.map": "/Nelinkko/static/js/main.f20ca366.chunk.js.map",
     "runtime-main.js": "/Nelinkko/static/js/runtime-main.63967aa7.js",
     "runtime-main.js.map": "/Nelinkko/static/js/runtime-main.63967aa7.js.map",
     "static/css/2.6ea3de80.chunk.css": "/Nelinkko/static/css/2.6ea3de80.chunk.css",
     "static/js/2.75b5acce.chunk.js": "/Nelinkko/static/js/2.75b5acce.chunk.js",
     "static/js/2.75b5acce.chunk.js.map": "/Nelinkko/static/js/2.75b5acce.chunk.js.map",
     "index.html": "/Nelinkko/index.html",
-    "precache-manifest.a212a3439c12bde520abad5e6f1a3edd.js": "/Nelinkko/precache-manifest.a212a3439c12bde520abad5e6f1a3edd.js",
+    "precache-manifest.eec5b5108b02a2bae039706eb27ac5cc.js": "/Nelinkko/precache-manifest.eec5b5108b02a2bae039706eb27ac5cc.js",
     "service-worker.js": "/Nelinkko/service-worker.js",
     "static/css/2.6ea3de80.chunk.css.map": "/Nelinkko/static/css/2.6ea3de80.chunk.css.map",
     "static/css/main.3d12d82e.chunk.css.map": "/Nelinkko/static/css/main.3d12d82e.chunk.css.map",
@@ -39,6 +39,6 @@
     "static/css/2.6ea3de80.chunk.css",
     "static/js/2.75b5acce.chunk.js",
     "static/css/main.3d12d82e.chunk.css",
-    "static/js/main.a8bfb853.chunk.js"
+    "static/js/main.f20ca366.chunk.js"
   ]
 }

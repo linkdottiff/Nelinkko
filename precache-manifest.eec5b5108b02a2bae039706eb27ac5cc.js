@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0d9f328d1376142c4cef102310ce1ba",
+    "revision": "e78deb3fba7d32ce013fa6965ee3d9be",
     "url": "/Nelinkko/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Nelinkko/static/css/2.6ea3de80.chunk.css"
   },
   {
-    "revision": "bb644556768f5f203883",
+    "revision": "89d666ed32c650695e6b",
     "url": "/Nelinkko/static/css/main.3d12d82e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Nelinkko/static/js/2.75b5acce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bb644556768f5f203883",
-    "url": "/Nelinkko/static/js/main.a8bfb853.chunk.js"
+    "revision": "89d666ed32c650695e6b",
+    "url": "/Nelinkko/static/js/main.f20ca366.chunk.js"
   },
   {
     "revision": "f4c5940e9961668386d7",
