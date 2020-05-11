@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e78deb3fba7d32ce013fa6965ee3d9be",
+    "revision": "f9f2e62de0d7fbe7f38fe899f0c4de15",
     "url": "/Nelinkko/index.html"
   },
   {
-    "revision": "3148ea3f9640b952f8d4",
+    "revision": "8d3e3cbbc71399ea55c4",
     "url": "/Nelinkko/static/css/2.6ea3de80.chunk.css"
   },
   {
-    "revision": "89d666ed32c650695e6b",
-    "url": "/Nelinkko/static/css/main.3d12d82e.chunk.css"
+    "revision": "c50dab7bacfda47dcd93",
+    "url": "/Nelinkko/static/css/main.7bbb1af2.chunk.css"
   },
   {
-    "revision": "3148ea3f9640b952f8d4",
-    "url": "/Nelinkko/static/js/2.75b5acce.chunk.js"
+    "revision": "8d3e3cbbc71399ea55c4",
+    "url": "/Nelinkko/static/js/2.ab7c126a.chunk.js"
   },
   {
     "revision": "bebed3b1282974d757c58bfa4f488bd8",
-    "url": "/Nelinkko/static/js/2.75b5acce.chunk.js.LICENSE.txt"
+    "url": "/Nelinkko/static/js/2.ab7c126a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "89d666ed32c650695e6b",
-    "url": "/Nelinkko/static/js/main.f20ca366.chunk.js"
+    "revision": "c50dab7bacfda47dcd93",
+    "url": "/Nelinkko/static/js/main.8f4350fa.chunk.js"
   },
   {
     "revision": "f4c5940e9961668386d7",

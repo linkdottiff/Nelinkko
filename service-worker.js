@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Nelinkko/precache-manifest.eec5b5108b02a2bae039706eb27ac5cc.js"
+  "/Nelinkko/precache-manifest.8ee169adb2b1a5319116c7346403fc45.js"
 );
 
 self.addEventListener('message', (event) => {

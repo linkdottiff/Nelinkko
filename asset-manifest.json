@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Nelinkko/static/css/main.3d12d82e.chunk.css",
-    "main.js": "/Nelinkko/static/js/main.f20ca366.chunk.js",
-    "main.js.map": "/Nelinkko/static/js/main.f20ca366.chunk.js.map",
+    "main.css": "/Nelinkko/static/css/main.7bbb1af2.chunk.css",
+    "main.js": "/Nelinkko/static/js/main.8f4350fa.chunk.js",
+    "main.js.map": "/Nelinkko/static/js/main.8f4350fa.chunk.js.map",
     "runtime-main.js": "/Nelinkko/static/js/runtime-main.63967aa7.js",
     "runtime-main.js.map": "/Nelinkko/static/js/runtime-main.63967aa7.js.map",
     "static/css/2.6ea3de80.chunk.css": "/Nelinkko/static/css/2.6ea3de80.chunk.css",
-    "static/js/2.75b5acce.chunk.js": "/Nelinkko/static/js/2.75b5acce.chunk.js",
-    "static/js/2.75b5acce.chunk.js.map": "/Nelinkko/static/js/2.75b5acce.chunk.js.map",
+    "static/js/2.ab7c126a.chunk.js": "/Nelinkko/static/js/2.ab7c126a.chunk.js",
+    "static/js/2.ab7c126a.chunk.js.map": "/Nelinkko/static/js/2.ab7c126a.chunk.js.map",
     "index.html": "/Nelinkko/index.html",
-    "precache-manifest.eec5b5108b02a2bae039706eb27ac5cc.js": "/Nelinkko/precache-manifest.eec5b5108b02a2bae039706eb27ac5cc.js",
+    "precache-manifest.8ee169adb2b1a5319116c7346403fc45.js": "/Nelinkko/precache-manifest.8ee169adb2b1a5319116c7346403fc45.js",
     "service-worker.js": "/Nelinkko/service-worker.js",
     "static/css/2.6ea3de80.chunk.css.map": "/Nelinkko/static/css/2.6ea3de80.chunk.css.map",
-    "static/css/main.3d12d82e.chunk.css.map": "/Nelinkko/static/css/main.3d12d82e.chunk.css.map",
-    "static/js/2.75b5acce.chunk.js.LICENSE.txt": "/Nelinkko/static/js/2.75b5acce.chunk.js.LICENSE.txt",
+    "static/css/main.7bbb1af2.chunk.css.map": "/Nelinkko/static/css/main.7bbb1af2.chunk.css.map",
+    "static/js/2.ab7c126a.chunk.js.LICENSE.txt": "/Nelinkko/static/js/2.ab7c126a.chunk.js.LICENSE.txt",
     "static/media/andrea.png": "/Nelinkko/static/media/andrea.1d29a7eb.png",
     "static/media/au.png": "/Nelinkko/static/media/au.86135c85.png",
     "static/media/bili.png": "/Nelinkko/static/media/bili.e77e5133.png",
@@ -37,8 +37,8 @@
   "entrypoints": [
     "static/js/runtime-main.63967aa7.js",
     "static/css/2.6ea3de80.chunk.css",
-    "static/js/2.75b5acce.chunk.js",
-    "static/css/main.3d12d82e.chunk.css",
-    "static/js/main.f20ca366.chunk.js"
+    "static/js/2.ab7c126a.chunk.js",
+    "static/css/main.7bbb1af2.chunk.css",
+    "static/js/main.8f4350fa.chunk.js"
   ]
 }
